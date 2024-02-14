@@ -18,7 +18,7 @@ namespace WinPhoneYT
         public static YTAPI Instance;
 
         public static string[] InvidousInstances = {
-            "https://google.com/"
+            "https://vid.puffyan.us/" 
                                                  };
 
         string line = "";
